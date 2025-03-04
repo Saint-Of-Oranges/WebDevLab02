@@ -1,0 +1,23 @@
+[
+    {"year": 998, "percent_worlds_conquered": 0},
+    {"year": 999, "percent_worlds_conquered": 3},
+    {"year": 1000, "percent_worlds_conquered": 10},
+    {"year": 1001, "percent_worlds_conquered": 10},
+    {"year": 1002, "percent_worlds_conquered": 20},
+    {"year": 1003, "percent_worlds_conquered": -10},
+    {"year": 1004, "percent_worlds_conquered": 33},
+    {"year": 1005, "percent_worlds_conquered": 20},
+    {"year": 1006, "percent_worlds_conquered": -5},
+    {"year": 1007, "percent_worlds_conquered": 5},
+    {"year": 1008, "percent_worlds_conquered": -10},
+    {"year": 1009, "percent_worlds_conquered": 5},
+    {"year": 1010, "percent_worlds_conquered": 7},
+    {"year": 1011, "percent_worlds_conquered": 5},
+    {"year": 1012, "percent_worlds_conquered": -20},
+    {"year": 1013, "percent_worlds_conquered": 5},
+    {"year": 1014, "percent_worlds_conquered": -20},
+    {"year": 1015, "percent_worlds_conquered": -40},
+    {"year": 1016, "percent_worlds_conquered": -17},
+    {"year": 1017, "percent_worlds_conquered": -1}
+
+]

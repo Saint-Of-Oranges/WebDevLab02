@@ -1,0 +1,24 @@
+[
+    {"year": 40000, "percent_planets_eaten": 0},
+    {"year": 40005, "percent_planets_eaten": 2},
+    {"year": 40010, "percent_planets_eaten": 5},
+    {"year": 40015, "percent_planets_eaten": 7},
+    {"year": 40020, "percent_planets_eaten": 10},
+    {"year": 40025, "percent_planets_eaten": 15},
+    {"year": 40030, "percent_planets_eaten": 20},
+    {"year": 40035, "percent_planets_eaten": 30},
+    {"year": 40040, "percent_planets_eaten": 40},
+    {"year": 40045, "percent_planets_eaten": 60},
+    {"year": 40050, "percent_planets_eaten": 80},
+    {"year": 40055, "percent_planets_eaten": 110},
+    {"year": 40060, "percent_planets_eaten": 150},
+    {"year": 40065, "percent_planets_eaten": 220},
+    {"year": 40070, "percent_planets_eaten": 290},
+    {"year": 40075, "percent_planets_eaten": 330},
+    {"year": 40080, "percent_planets_eaten": 370},
+    {"year": 40085, "percent_planets_eaten": 500},
+    {"year": 40090, "percent_planets_eaten": 700},
+    {"year": 40095, "percent_planets_eaten": 1000},
+    {"year": 40100, "percent_planets_eaten": 1300}
+]
+
